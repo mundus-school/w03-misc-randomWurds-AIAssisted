@@ -1,5 +1,5 @@
 # Small self-study project for webdev class
-### Note that ChatGPT was used in the making of this project to understand the random positioning of the elements. I take no credit whatsoever for the creation of this app. (As if that would ever matter with this hillariously pointless thing).
+Note that ChatGPT was used in the making of this project to understand the random positioning of the elements. I take no credit whatsoever for the creation of this app. (As if that would ever matter with this hillariously pointless thing).
 
 ## Languages:
 HTML, CSS, JavaScript

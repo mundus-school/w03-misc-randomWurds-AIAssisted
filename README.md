@@ -9,3 +9,6 @@ A small app which periodically fills the browser window with words related to we
 
 ## How to run:
 Download files and run index.html in browser
+
+## Preview:
+https://mundus-school.github.io/w03-misc-randomWurds-AIAssisted/
